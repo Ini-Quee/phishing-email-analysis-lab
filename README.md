@@ -1,8 +1,21 @@
+
+## 🧠 MITRE ATT&CK Integration
+
+This project applies the MITRE ATT&CK framework to map observed phishing behaviors to real-world attacker tactics and techniques.
+
+✔ Reconnaissance  
+✔ Initial Access (T1566 – Phishing)  
+✔ Command & Control indicators  
+✔ Defense Evasion techniques  
+
+This approach aligns with modern SOC investigation workflows.
+
 # Phishing Email Analysis — Portfolio
 
 **Analyst:** Erica Innocent Effiong
 **Focus:** Email header forensics, sender investigation, authentication analysis, IOC extraction
 **Tools Used:** MXToolBox, DomainTools, CyberChef, Linux Terminal (WHOIS), Thunderbird
+
 
 ---
 
@@ -293,6 +306,10 @@ CIBC is a Canadian bank. No legitimate CIBC email originates from a Honduran res
 - Social engineering pattern recognition
 
 ---
+
+## 🎓 Certifications
+
+- MITRE ATT&CK Defender (MAD) – Foundations of Operationalizing ATT&CK v13
 
 *More phishing case studies will be added as investigations are completed.*
 *All analysis conducted for educational and portfolio purposes.*
